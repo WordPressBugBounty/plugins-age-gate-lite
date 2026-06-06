@@ -1,9 +1,9 @@
 === Age Gate Lite ===
 Donate link: https://www.paypal.me/siddhu09rocks
 Contributors: siddhu09rocks
-Tags: age, age gate, age verification, cannabis, age verify, adults-only, popup, modal, over 18, over 19, over 20, over 21, pop-up, popup, restrict, splash, beer, alcohol, restriction
+Tags: age gate, age verification, cannabis, adults only, popup
 Requires at least: 4.0
-Tested up to: 6
+Tested up to: 7.0
 Stable tag: trunk
 Requires PHP: 5.2.4
 License: GPLv2 or later
